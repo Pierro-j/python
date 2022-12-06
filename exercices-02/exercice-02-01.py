@@ -15,4 +15,6 @@ fullname = "John Doe"
 license_agreement = None
 
 print("Salut", fullname )
+print(love_python)
 print(license_agreement)
+
