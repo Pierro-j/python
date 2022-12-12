@@ -15,3 +15,10 @@ if number >= 3:
 else:
     print("le nombre n'est pas divisible par 3")
 
+# Ou
+
+if number % 3 ==0 :
+    print("le nombre est divisible par 3")
+else:
+    print("le nombre n'est pas divisible par 3")
+
