@@ -5,3 +5,6 @@
 
 # réponse 3.4
 
+nb = [1, 2, 3, 5, 8, 13, 21]
+average = sum(nb)/len(nb)
+print(average)
