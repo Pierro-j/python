@@ -131,3 +131,11 @@ foo = random.randint(1, 100)
 # result = not False
 # print(result)
 
+
+
+#! in renvoie un resultat boolean
+fruits = ['abricot' ,'banana', 'apple']
+result = 'ananas' in fruits
+print(result)
+result = 'apple' in fruits
+print(result)
